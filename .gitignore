@@ -1,16 +1,21 @@
-# Virtual env
-venv/
+# 🐍 Python cache
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
 
-# Jupyter
+# 🧪 Virtual environment
+venv/
+
+# 📓 Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
-# MLflow logs
+# 🚫 MLflow experiment logs
 mlruns/
 
-# Streamlit cache
+# 🚀 Streamlit cache
 .streamlit/
 
-# OS files
+# 🧹 OS-specific junk
 .DS_Store
 Thumbs.db
