@@ -1,0 +1,16 @@
+# Virtual env
+venv/
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MLflow logs
+mlruns/
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
